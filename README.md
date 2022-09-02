@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hereticrush
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in software engineering and development
+- 🌱 I’m currently learning CPP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
