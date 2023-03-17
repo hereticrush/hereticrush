@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hereticrush
 - 👀 I’m interested in computer science, software engineering and development
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on OS
 - 📫 How to reach me ...
 
 <!---
